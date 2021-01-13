@@ -57,7 +57,7 @@ environment.” India Conference (INDICON), 2012 Annual IEEE , IEEE, 2012
 [2] S. AlEbrahim and I. Ahmad, “Task scheduling for heterogeneous computing systems,”
 The Journal of Supercomputing, vol. 73, no. 6, 2313–2338, 2017
 
-[3] Hunold Sascha, Casanova Henri and Suter Fr ´ed´ eric. (2011). ”From Simulation to Experiment:
+[3] Hunold Sascha, Casanova Henri and Suter Frederic. (2011). ”From Simulation to Experiment:
 A Case Study on Multiprocessor Task Scheduling”. IEEE International Symposium on
 Parallel and Distributed ProcessingWorkshops and Phd Forum. 665-672. 10.1109/IPDPS.2011.201.
  
