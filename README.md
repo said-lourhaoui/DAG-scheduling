@@ -12,19 +12,19 @@ the regularity and other parameters. We have implemented a random DAG generator 
 simulated both algorithms for different types of DAGs. The results show that the algorithm
 proposed in [2] performs better in terms of the makespan, it is also faster than the proposed
 Genetic algorithm [1] in terms of time complexity.
+
 #### The file "dag.gml" contain a random DAG with 20 nodes
 #### To generate a schedule of the dag "dag.gml" using one of the two algorithms:   
 - Make sure you have python 3.8 and above installed in your computer
 - Make sure the following modules are already installed : networkx, numpy
-- Place the script and the file "dag.gml" in the same folder.
-- Run the desired script using and python IDE or by command line : "python3 genetic_algo.py" or "python3 proposedAlgo.py"
-- The scripts will output a schedule and the makespan calcuted.
+- Run the desired script from a python IDE or by command line : "python3 genetic_algo.py" or "python3 proposedAlgo.py"
+- The scripts will output a schedule and the calcuted makespan
 
 
 #### To generate a new DAG:  
 - The following modules are required : numpy, networkx, matplotlib.pyplot
 - Open the script dag_generator.py
-- Specifiy the desired parameters
+- Specify the desired parameters
 - Specify the file name where the dag will be saved
 - Comment or uncomment the line "x.plot_dag(dag)", depending on whether you want to plot the graph or not
 - Run the script
@@ -43,7 +43,7 @@ Genetic algorithm [1] in terms of time complexity.
 - Choose the DAG parameters ranges
 - Run the script
 - It will select a tuple of values at each iteration and executes both algorithms
-- Finally, it will create a csv file containing the simulation results. 
+- Finally, it will create a csv file containing the simulation results
 
 #### To visualize the GA paramaters estimation 
 - Open the notebook Ga_plots.ipynb and run the cells
